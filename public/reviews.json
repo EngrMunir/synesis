@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "blogId": 1,
+    "reviewerName": "Alice Johnson",
+    "rating": 4.5,
+    "comment": "The blog was very insightful and well-written. Looking forward to more content like this!",
+    "reviewTitle": "Insightful and Well-Written"
+  },
+  {
+    "id": 2,
+    "blogId": 1,
+    "reviewerName": "Michael Brown",
+    "rating": 5,
+    "comment": "Absolutely loved this blog! It answered all my questions on the topic. Great job!",
+    "reviewTitle": "Absolutely Loved It!"
+  },
+  {
+    "id": 3,
+    "blogId": 2,
+    "reviewerName": "Sophia Davis",
+    "rating": 4,
+    "comment": "Good read! However, it would be great if more examples were included.",
+    "reviewTitle": "Good Read, Needs More Examples"
+  },
+  {
+    "id": 4,
+    "blogId": 2,
+    "reviewerName": "James Smith",
+    "rating": 3.5,
+    "comment": "Decent blog, but some points were a bit unclear. Could use a bit more detail.",
+    "reviewTitle": "Decent but Needs More Clarity"
+  },
+  {
+    "id": 5,
+    "blogId": 3,
+    "reviewerName": "Emma Wilson",
+    "rating": 4.8,
+    "comment": "Fantastic content! Engaging and informative.",
+    "reviewTitle": "Engaging and Informative"
+  }
+]
