@@ -57,6 +57,23 @@ const Details = () => {
                 }
             </div>
         </section>
+        {/* subscription section */}
+        <section className='mt-10 flex justify-center items-center mb-10'>
+            <div className='bg-white p-6 rounded-lg shadow-md w-full max-w-md'>
+                <h2 className='text-2xl font-bold text-center mb-4'>
+                Follow the latest trends
+                </h2>
+                <p className='text-center text-gray-600 mb-6'>
+                With our daily newsletter
+                </p>
+                <form className='flex gap-4'>
+                    <input type="email" placeholder='Enter your email' 
+                    className='p-3 border border-gray-300 rounded-lg' required/>
+                    <button type='submit' 
+                    className="btn bg-blue-500 text-white rounded-lg p-3">Subscribe</button>
+                </form>
+            </div>
+        </section>
         </div>
     );
 };

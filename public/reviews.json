@@ -22,21 +22,6 @@
     "rating": 4,
     "comment": "Good read! However, it would be great if more examples were included.",
     "reviewTitle": "Good Read, Needs More Examples"
-  },
-  {
-    "id": 4,
-    "blogId": 2,
-    "reviewerName": "James Smith",
-    "rating": 3.5,
-    "comment": "Decent blog, but some points were a bit unclear. Could use a bit more detail.",
-    "reviewTitle": "Decent but Needs More Clarity"
-  },
-  {
-    "id": 5,
-    "blogId": 3,
-    "reviewerName": "Emma Wilson",
-    "rating": 4.8,
-    "comment": "Fantastic content! Engaging and informative.",
-    "reviewTitle": "Engaging and Informative"
   }
+ 
 ]
